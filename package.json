@@ -1,0 +1,23 @@
+{
+  "name": "proxy-api",
+  "version": "1.0.0",
+  "description": "https://proxy-api-woocommerce.vercel.app/api/get-body?a=34",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontity-demos/proxy-api-woocommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontity-demos/proxy-api-woocommerce/issues"
+  },
+  "homepage": "https://github.com/frontity-demos/proxy-api-woocommerce#readme",
+  "dependencies": {
+    "@vercel/node": "^1.7.1"
+  }
+}
